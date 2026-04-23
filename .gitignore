@@ -1,0 +1,5 @@
+# macOS storing folder information
+.DS_Store
+
+# stop Rider from filling this repo with shit
+.idea
